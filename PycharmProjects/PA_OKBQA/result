@@ -1,0 +1,1 @@
+{"question":"Which rivers flow through Seoul","ned":[{"score":1,"entities":[],"classes":[{"score":0.6666666666666666,"var":"v3","value":"http:\/\/dbpedia.org\/ontology\/River"}],"literals":[],"properties":[{"score":0.5,"var":"v2","value":"http:\/\/dbpedia.org\/ontology\/city"}]}]}
