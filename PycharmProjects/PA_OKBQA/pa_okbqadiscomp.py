@@ -2,7 +2,7 @@
 """This program execute curl command on webserive url for given input data.
    Parameters: file or data, webserivice url
    Example:
-   $ python pa_curl_akhileshvyas.py -f=inputdata.json -w=http://121.254.173.77:2357/agdistis/run
+   $ python pa_okbqadiscomp.py -f=inputdata.json -w=http://121.254.173.77:2357/agdistis/run
 
 """
 import sys
